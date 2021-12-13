@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Label" type="Label"]
+margin_left = 444.0
+margin_top = 266.0
+margin_right = 577.0
+margin_bottom = 280.0
+text = "Hello World ,GODOT"
+__meta__ = {
+"_edit_use_anchors_": false
+}
